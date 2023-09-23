@@ -1,0 +1,24 @@
+h1, h2 {
+    color: green;
+}
+img{
+    border: 1px solid white;
+    border-radius: 50%;
+
+}
+body{
+    background-color: rgb(26, 9, 9);
+    color: white;
+}
+.dim {
+    color: #59535a;
+    border: 1px solid white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 15px;
+    
+}
+
+.underline{
+    text-decoration: underline;
+}
